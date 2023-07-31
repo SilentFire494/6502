@@ -1,0 +1,17 @@
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\Keandre Fuel\Desktop\Projects\C#\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
